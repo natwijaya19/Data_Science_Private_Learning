@@ -21,8 +21,5 @@ Coverage
 beautifulsoup4
 selenium
 scrapy
+gekko
 
-git+https://github.com/stefmolin/login-attempt-simulator.git@2nd_edition
-git+https://github.com/stefmolin/ml-utils.git@2nd_edition
-git+https://github.com/stefmolin/stock-analysis.git@2nd_edition
-./visual-aids
